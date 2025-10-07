@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th,td{
+    padding: 15px;
+}
+h1 {
+    border-color:2px solid blue;
+    
+}
+h2{
+    background-color: gray;
+    border-style: dashed;
+    border-radius: 5px;
+
+}
+body{
+    background-image: url("image/Screenshot_20250819-135331~2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
